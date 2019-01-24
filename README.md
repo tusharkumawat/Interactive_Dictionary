@@ -4,7 +4,7 @@ Creating a dictionary in Python which can retrieve definitions for user and chec
 
 ## Deployment
 ```
-python3 dictionary.py
+python dictionary.py
 ```
 
 ## License
